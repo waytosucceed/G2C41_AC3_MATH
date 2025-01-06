@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Max has 1 tray with 5 muffins. Can you find out how many muffins are on the tray?<br>1 × 5 = ?",
+        "options": [
+            "6",
+            "4",
+            "5",
+            "3"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Max has 1 pack with 8 hats. How many hats are there in total?<br>1 × 8 = ?",
+        "options": [
+            "7",
+            "8",
+            "6",
+            "5"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Max has 1 tray with 12 cupcakes. How many cupcakes does Max have?<br>1 × 12 = ?",
+        "options": [
+            "12",
+            "11",
+            "14",
+            "15"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Max gives 1 juice box to each of his 10 friends. How many juice boxes are there?<br>1 × 10 = ?",
+        "options": [
+            "9",
+            "12",
+            "14",
+            "10"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Max has 1 string with 15 balloons. How many balloons does Max have in total?<br>1 × 15 = ?",
+        "options": [
+            "16",
+            "15",
+            "13",
+            "14"
+        ],
+        "correct": 1
+    }
+]

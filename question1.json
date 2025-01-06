@@ -1,0 +1,33 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Max got gifts from his friends for his birthday.Fill in the blank to make the statement equal.",
+        "options":["","×","1","=","1","×","31"],
+        "answers": ["31","×","1","=","1","×","31"]
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Max found special gift cards in his mailbox. Fill in the blank to make the statement equal.",
+        "options":["42","×","","=","1","×","42"],
+        "answers": ["42","×","1","=","1","×","42"]
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Everyone danced to different songs at his birthday party. Fill in the blank to make the statement equal.",
+        "options":["39","×","1","=","","×","39"],
+        "answers": ["39","×","1","=","1","×","39"]
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Max played games with his friends during the party. Fill in the blank to make the statement equal.",
+        "options":["1","×","65","=","","×","1"],
+        "answers": ["1","×","65","=","65","×","1"]
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Max served different drinks at his birthday party.Fill in the blank to make the statement equal.",
+        "options":["57","×","1","=","1","×",""],
+        "answers": ["57","×","1","=","1","×","57"]
+    }
+  ]
+  

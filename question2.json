@@ -1,0 +1,51 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Max gives 25 invitations to each of his friends. He and his friend Sam wrote it in their notebook in different ways. Will both of them get the same answer?<br>Max: 25 × 1 = 25<br>Sam : 1 X 25 = 25",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Max has 40 guests who get 1 plate each. Max noted it as<br>40 × 1 = 40<br>Is he correct?",
+        "options": [
+            "Yes",
+            "No",
+            "May be"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Max says  51 × 1 = 1 x 51<br>Is this true?",
+        "options": [
+            "False",
+            "True",
+            "May be"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Sam says <br>1 X 61 = 61 x 1",
+        "options": [
+            "True",
+            "False",
+            "May be"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Max says  51 × 1 = 51<br>Sam says 1 x 51 = 1<br>Who is correct?",
+        "options": [
+            "Max",
+            "Sam",
+            "None"
+        ],
+        "correct": 0
+    }
+]
